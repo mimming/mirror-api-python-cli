@@ -19,3 +19,5 @@ A Python based command line interface for sending stuff to Google Glass using th
 3. Run `send-to-glass.py`
 
         $ send-to-glass.py 'Hello World!'
+
+4. Wait for the notification to be delivered on Glass.
